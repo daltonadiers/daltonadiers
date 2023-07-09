@@ -1,10 +1,10 @@
 - ### 👋 Hi, I’m @daltonadiers
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalton-oberdan-adiers-029388237/)
+  Hello, I'm a student of the computer science course at the University of Passo Fundo. Below, I dedicate an area to the technologies with which I have already become familiar. I like to know a little bit about everything, but I'm passionate about the low level.
+#
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dalton_adiers/)
 
 
-![dadiers GitHub stats](https://github-readme-stats.vercel.app/api?username=daltonadiers&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daltonadiers&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Languages and Tools:
@@ -22,7 +22,13 @@
 ![MDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![KALI](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![WINDOWS](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Contact me:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalton-oberdan-adiers-029388237/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dalton_adiers/)
+#
 ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) dalton@upf.br
 
