@@ -4,6 +4,7 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daltonadiers&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Languages and Tools:
